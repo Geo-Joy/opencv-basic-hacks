@@ -8,8 +8,6 @@
 
 ### 1 - Thresholding
 Thresholding is a simple operation that converts a grayscale image into a binary image based on the intensity of each pixels.
-![alt text](/data/images/threshold.png "Original Image" | width=48))![alt text](/data/images/threshold_out.png "Thresholded Image")
+![alt text](/data/images/threshold.png "Original Image"))![alt text](/data/images/threshold_out.png "Thresholded Image")
 
-
-![test](https://github.com/favicon.ico =24x48)
 
