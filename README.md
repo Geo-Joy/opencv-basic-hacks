@@ -1,2 +1,7 @@
 # opencv-basic-hacks
-opencv project starter hacks :)
+
+## Binary Image Processing
+1. Thresholding: used to create binary image from a grayscale image
+2. Erosion: used to shrink the size of blobs (a group of connected pixels) in a binary image'
+3. Dilation: used to expand the size of blobs in a binary image
+4. Connected componenet analysis: used to label blob in a binary image.
