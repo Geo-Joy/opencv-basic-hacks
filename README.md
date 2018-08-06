@@ -11,5 +11,5 @@ Thresholding is a simple operation that converts a grayscale image into a binary
 ![alt text](/data/images/threshold.png "Original Image" | width=48))![alt text](/data/images/threshold_out.png "Thresholded Image")
 
 
-
+![test](https://github.com/favicon.ico =24x48)
 
