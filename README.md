@@ -20,3 +20,11 @@ Used to expand the edges of a blocb
 Used to remove(erode) the white pixels around the blob
 ![alt text](/data/images/truth_e_out.png)
 
+### 4 - Morphological OPEN and CLOSE
+Combining dilation and erosion
+![alt text](/data/images/opening_out.png)
+![alt text](/data/images/closing_out.png)
+
+### 5 - Connected Component Analysis (CCA)
+CCA will create a mask where all pixels corresponding to the background are 0, all pixels corresponding to the first blob, (i.e. the letter T) are 1, those corresponding to R are 2 and so on and so forth.
+![alt text](/data/images/truth_cca.png)
